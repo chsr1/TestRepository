@@ -1,2 +1,2 @@
-welcome to GitHub  
-Welcome to Git.
+<center>welcome to GitHub  </center>
+<style="color:blue">Welcome to Git.</style>
